@@ -10,7 +10,7 @@
 ** 成果物のサブブランチは `成果物のブランチ名/hogehoge` とする
 
 == products
-[cols="&lt;,^,&gt;",options="header,autowidth"]
+[cols="1,1,~",options="header"]
 |===
 |branch名
 |work
