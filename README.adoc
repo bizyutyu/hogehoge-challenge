@@ -10,11 +10,14 @@
 ** 成果物のサブブランチは `成果物のブランチ名/hogehoge` とする
 
 == products
-[cols="&lt;,^,&gt;",options="header,autowidth"]
-|============================
-|branch名|work|概要
+[cols="1;,1,3",options="header"]
+|===
+|branch名
+|work
+|概要
+
 |cli-othello|CLIオセロ|Rust製CLIオセロ。#100日チェレンジの筆者がPython製のCLIオセロを授業中に作っていたので、似たものを作ってみた。
-|============================
+|===
 
 == Asciidoc(.adoc)のルール
 https://takumon.github.io/asciidoc-syntax-quick-reference-japanese-translation/
