@@ -1,6 +1,5 @@
 = hogehoge-challenge
-**#100日チャレンジ** に感化されて作った、細かい作品の置き場所
-このREADMEには、個人的なお試しのつもりでAsciidoc(.adoc)を用いています。
+**#100日チャレンジ** に感化されて作った、細かい作品の置き場所。
 
 == rules
 * 1週間に1作品が目安
@@ -11,9 +10,11 @@
 ** 成果物のサブブランチは `成果物のブランチ名/hogehoge` とする
 
 == products
-[cols="&lt;,^,&gt;",options="header,autowidth"]
+[options="header,autowidth"]
 |============================
 |branch名|work|概要
+|cli-othello|CLIオセロ|Rust製CLIオセロ。#100日チェレンジの筆者がPython製のCLIオセロを授業中に作っていたので、似たものを作ってみた。
 |============================
 
-== misc(つぶやき)
+== Asciidoc(.adoc)のルール
+https://takumon.github.io/asciidoc-syntax-quick-reference-japanese-translation/
